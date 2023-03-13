@@ -1,0 +1,12 @@
+EXPLORATORY DATA ANALYSIS
+
+1. There are Six steps of Exploratory data Analysis (EDA)
+ 
+I) Understand the data structure. (check how many rows and columns etc)
+ii) Identifying misiing data.
+iii) Describe the data using desprictive statistics (max, min and avg etc)
+iv) Identify Outliers.
+v) Explore relationships between Variables.
+vi) Forming Hypothesis.
+
+2. 
